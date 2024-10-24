@@ -35,9 +35,11 @@ Sure thing! Just clone this repo and follow these steps:
 
     pip install -r requirements.txt
 
-    Grab some Sentinel-1 SAR data from Copernicus Open Access Hub and you’re good to go!
+Grab some Sentinel-1 SAR data from Copernicus Open Access Hub and you’re good to go!
 
-    Run the code and watch the flood monitoring magic happen.
+Run the code and watch the flood monitoring magic happen.
+This project's dataset is available for download at the following site: 
+(https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/data-products).
 
 Future Plans
 
