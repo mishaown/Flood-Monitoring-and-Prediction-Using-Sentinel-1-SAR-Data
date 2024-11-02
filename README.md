@@ -24,20 +24,6 @@ What we did here:
     Accuracy Check
     Of course, we don't just trust the computer blindly. We compare the flood maps with actual ground data and other high-quality images to make sure we’re getting it right.
 
-Why is this useful?
-
-Floods can be devastating, but with this tool, we can provide early warnings and detailed maps that help in disaster management and planning. Pretty useful, right?
-Want to run this project yourself?
-
-Sure thing! Just clone this repo and follow these steps:
-
-    Install the dependencies:
-
-    pip install -r requirements.txt
-
-Grab some Sentinel-1 SAR data from Copernicus Open Access Hub and you’re good to go!
-
-Run the code and watch the flood monitoring magic happen.
 This project's dataset is available for download at the following site: 
 (https://sentinel.esa.int/web/sentinel/user-guides/sentinel-1-sar/data-products).
 
